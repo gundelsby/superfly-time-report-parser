@@ -1,0 +1,2 @@
+Bruk https://github.com/Belphemur/node-json-db for database hvis behov
+Alternativt bare lag ny app som bruker serialisert output fra denne som datasource

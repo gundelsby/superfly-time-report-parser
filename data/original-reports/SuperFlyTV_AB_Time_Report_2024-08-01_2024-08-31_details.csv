@@ -1,0 +1,415 @@
+,Date,2024-09-03,,,,,,,,
+,,,,,,,,,,
+Project/Time entry,Task,User,Tags,Start date,Start time,Stop date,Stop time,Time (h),Time (decimal),Billable
+NRK - Sofie NRK,,,,,,,,460:27:01, 460.450,
+SOFIE-3360   New Tech: Vite: Deduplicate 'meteor/lib',Planned features,Julian,,2024-08-01,9:36:16,2024-08-01,10:00:32,0:24:16, 0.404,Yes
+standup,Standup,Julian,,2024-08-01,10:00:32,2024-08-01,10:24:34,0:24:02, 0.401,Yes
+SOFIE-3360   New Tech: Vite: Deduplicate 'meteor/lib',Planned features,Julian,,2024-08-01,10:24:37,2024-08-01,11:33:36,1:08:59, 1.150,Yes
+SOFIE-3360   New Tech: Vite: Deduplicate 'meteor/lib',Planned features,Julian,,2024-08-01,12:13:37,2024-08-01,13:44:22,1:30:45, 1.513,Yes
+SOFIE-3291   LOOP - The time is off after SkilleX is gone,Planned bugs,Julian,,2024-08-01,13:44:22,2024-08-01,14:09:07,0:24:45, 0.413,Yes
+"SOFIE-3369   Triggering ""SLUTTVIGNETT"" manually results in unpredictable behaviour",Unplanned/Critical bugs,Julian,,2024-08-01,14:09:08,2024-08-01,17:30:32,3:21:24, 3.357,Yes
+SOFIE-3371   At the show end for Tegnspråknytt Sofie cuts into camera 2 for two frames while running sluttkreditt,Unplanned/Critical bugs,Julian,,2024-08-02,9:41:29,2024-08-02,9:59:28,0:17:59, 0.300,Yes
+standup,Standup,Julian,,2024-08-02,9:59:29,2024-08-02,10:14:54,0:15:25, 0.257,Yes
+SOFIE-3371   At the show end for Tegnspråknytt Sofie cuts into camera 2 for two frames while running sluttkreditt,Unplanned/Critical bugs,Julian,,2024-08-02,10:14:54,2024-08-02,11:59:25,1:44:31, 1.742,Yes
+Standup,Standup,Jesper,,2024-08-02,11:00:00,2024-08-02,11:16:39,0:16:39, 0.278,Yes
+Blueprints,Planned features,Jesper,,2024-08-02,11:16:50,2024-08-02,11:33:07,0:16:17, 0.271,Yes
+SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-02,12:27:00,2024-08-02,14:50:00,2:23:00, 2.383,Yes
+vacation catchup,Other,Mint de Wit,,2024-08-05,8:04:09,2024-08-05,9:33:41,1:29:32, 1.492,Yes
+catchup,Other,Julian,,2024-08-05,9:32:52,2024-08-05,10:01:56,0:29:04, 0.484,Yes
+,Planned features,Mint de Wit,,2024-08-05,9:33:41,2024-08-05,11:05:19,1:31:38, 1.527,Yes
+standup,Standup,Julian,,2024-08-05,10:01:56,2024-08-05,10:24:49,0:22:53, 0.381,Yes
+catchup,Other,Julian,,2024-08-05,10:24:00,2024-08-05,10:36:00,0:12:00, 0.200,Yes
+Standup,Standup,Jesper,,2024-08-05,11:02:00,2024-08-05,11:18:18,0:16:18, 0.272,Yes
+,Standup,Mint de Wit,,2024-08-05,11:05:20,2024-08-05,11:31:01,0:25:41, 0.428,Yes
+catchup,Other,Julian,,2024-08-05,11:22:13,2024-08-05,11:57:13,0:35:00, 0.583,Yes
+SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-05,12:04:00,2024-08-05,13:58:39,1:54:39, 1.911,Yes
+,Planned features,Mint de Wit,,2024-08-05,12:07:06,2024-08-05,14:58:49,2:51:43, 2.862,Yes
+,Planned features,Mint de Wit,,2024-08-05,15:34:00,2024-08-05,17:00:00,1:26:00, 1.433,Yes
+,Planned features,Mint de Wit,,2024-08-06,8:00:00,2024-08-06,11:01:45,3:01:45, 3.029,Yes
+standup,Standup,Julian,,2024-08-06,10:00:15,2024-08-06,10:48:16,0:48:01, 0.800,Yes
+SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-06,10:48:17,2024-08-06,11:10:36,0:22:19, 0.372,Yes
+Standup,Standup,Jesper,,2024-08-06,10:58:10,2024-08-06,11:21:09,0:22:59, 0.383,Yes
+,Standup,Mint de Wit,,2024-08-06,11:01:45,2024-08-06,11:29:08,0:27:23, 0.456,Yes
+refinement,Dev meeting,Julian,,2024-08-06,11:55:41,2024-08-06,12:40:17,0:44:36, 0.743,Yes
+,Planned features,Mint de Wit,,2024-08-06,12:00:00,2024-08-06,17:00:00,5:00:00, 5.000,Yes
+SOFIE-3356   RK5 reports very long load times for a Rundown,Planned bugs,Julian,,2024-08-06,12:40:17,2024-08-06,14:19:46,1:39:29, 1.658,Yes
+Refinement,Sprint meeting,Jesper,,2024-08-06,12:58:00,2024-08-06,13:31:39,0:33:39, 0.561,Yes
+SOFIE-3305   Update R51 Blueprints to expose TA-App data on publicData instead of R50 metadata,Planned features,Julian,,2024-08-06,14:19:46,2024-08-06,15:09:46,0:50:00, 0.833,Yes
+"SOFIE-3368   When using a split in a part that also has graphics in the back screen, the back screen graphics will be used as split background",Unplanned/Critical bugs,Julian,,2024-08-06,15:09:46,2024-08-06,16:21:59,1:12:13, 1.204,Yes
+SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-06,16:21:59,2024-08-06,16:24:00,0:02:01, 0.034,Yes
+SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-06,16:24:00,2024-08-06,18:02:10,1:38:10, 1.636,Yes
+,Planned features,Mint de Wit,,2024-08-07,8:00:00,2024-08-07,11:20:54,3:20:54, 3.348,Yes
+catchup,Other,Julian,,2024-08-07,9:42:54,2024-08-07,10:04:39,0:21:45, 0.363,Yes
+standup,Standup,Julian,,2024-08-07,10:04:39,2024-08-07,10:28:32,0:23:53, 0.398,Yes
+SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-07,10:28:32,2024-08-07,10:33:12,0:04:40, 0.078,Yes
+Standup,Standup,Jesper,,2024-08-07,11:00:00,2024-08-07,11:20:00,0:20:00, 0.333,Yes
+SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-07,11:06:11,2024-08-07,11:57:50,0:51:39, 0.861,Yes
+,Planned features,Mint de Wit,,2024-08-07,11:49:21,2024-08-07,16:49:51,5:00:30, 5.008,Yes
+planning,Sprint meeting,Julian,,2024-08-07,11:57:51,2024-08-07,12:16:44,0:18:53, 0.315,Yes
+SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-07,12:16:44,2024-08-07,14:15:11,1:58:27, 1.974,Yes
+Planning,Sprint meeting,Jesper,,2024-08-07,13:00:00,2024-08-07,13:11:00,0:11:00, 0.183,Yes
+SOFIE-3366   Support programmed and automatic tag mode temasupers in rundowns,Planned features,Julian,,2024-08-07,14:15:12,2024-08-07,15:26:14,1:11:02, 1.184,Yes
+SOFIE-3370   CasparCG: merge in upstream 2.4.0 changes,Planned features,Julian,,2024-08-07,15:26:14,2024-08-07,16:16:59,0:50:45, 0.846,Yes
+SOFIE-3358   Have the prompter show the KAM that the host should be speaking to,Planned features,Julian,,2024-08-07,16:17:00,2024-08-07,16:44:25,0:27:25, 0.457,Yes
+SOFIE-3361   New Tech: Vite: Reduce reliance on copied meteor code,Planned features,Julian,,2024-08-07,16:44:00,2024-08-07,18:46:00,2:02:00, 2.033,Yes
+,Planned features,Mint de Wit,,2024-08-08,8:11:30,2024-08-08,11:01:56,2:50:26, 2.841,Yes
+SOFIE-396 Upgrade Electron,Planned features,Jesper,,2024-08-08,9:10:00,2024-08-08,10:15:44,1:05:44, 1.096,Yes
+standup,Standup,Julian,,2024-08-08,9:57:43,2024-08-08,10:19:48,0:22:05, 0.368,Yes
+SOFIE-3361   New Tech: Vite: Reduce reliance on copied meteor code,Planned features,Julian,,2024-08-08,10:19:48,2024-08-08,10:58:30,0:38:42, 0.645,Yes
+Standup,Standup,Jesper,,2024-08-08,10:59:50,2024-08-08,11:36:19,0:36:29, 0.608,Yes
+,Standup,Mint de Wit,,2024-08-08,11:01:56,2024-08-08,11:48:30,0:46:34, 0.776,Yes
+catchup,Other,Julian,,2024-08-08,11:31:50,2024-08-08,12:20:35,0:48:45, 0.813,Yes
+,Planned features,Mint de Wit,,2024-08-08,11:48:00,2024-08-08,12:30:00,0:42:00, 0.700,Yes
+SOFIE-3272   Suppress Direkte super during BTS,Planned features,Julian,,2024-08-08,12:20:35,2024-08-08,14:02:29,1:41:54, 1.698,Yes
+,Planned features,Mint de Wit,,2024-08-08,12:59:43,2024-08-08,16:24:38,3:24:55, 3.415,Yes
+SOFIE-3361   New Tech: Vite: Reduce reliance on copied meteor code,Planned features,Julian,,2024-08-08,14:02:29,2024-08-08,14:36:38,0:34:09, 0.569,Yes
+SOFIE-3220   Historiebygger user-facing timing options,Planned features,Julian,,2024-08-08,14:58:18,2024-08-08,15:38:18,0:40:00, 0.667,Yes
+1.50.4 release,Other,Julian,,2024-08-08,15:38:18,2024-08-08,16:19:46,0:41:28, 0.691,Yes
+,Planned features,Mint de Wit,,2024-08-09,8:30:00,2024-08-09,11:35:53,3:05:53, 3.098,Yes
+MOS troubleshooting,Planned bugs,Jesper,,2024-08-09,9:36:00,2024-08-09,10:19:09,0:43:09, 0.719,Yes
+standup,Standup,Julian,,2024-08-09,9:44:35,2024-08-09,9:59:35,0:15:00, 0.250,Yes
+catchup,Other,Julian,,2024-08-09,9:59:35,2024-08-09,10:41:48,0:42:13, 0.704,Yes
+SOFIE-3310   Nora API Key/group via datastore,Planned features,Julian,,2024-08-09,10:41:48,2024-08-09,11:05:14,0:23:26, 0.391,Yes
+Standup,Standup,Jonas,,2024-08-09,11:00:00,2024-08-09,11:19:31,0:19:31, 0.325,Yes
+Standup,Standup,Jesper,,2024-08-09,11:00:00,2024-08-09,11:14:48,0:14:48, 0.247,Yes
+SOFIE-3310   Nora API Key/group via datastore,Planned features,Julian,,2024-08-09,11:41:12,2024-08-09,13:07:40,1:26:28, 1.441,Yes
+,Planned features,Mint de Wit,,2024-08-09,12:00:00,2024-08-09,15:58:36,3:58:36, 3.977,Yes
+,Administration,Johan,,2024-08-12,7:30:00,2024-08-12,8:40:00,1:10:00, 1.167,Yes
+standup,Standup,Julian,,2024-08-12,9:58:00,2024-08-12,10:23:15,0:25:15, 0.421,Yes
+,Administration,Johan,,2024-08-12,10:10:00,2024-08-12,11:00:00,0:50:00, 0.833,Yes
+pr review,Other,Julian,,2024-08-12,10:23:16,2024-08-12,11:43:22,1:20:06, 1.335,Yes
+Pull Request reviews,Planned features,Jan,,2024-08-12,10:30:11,2024-08-12,11:00:17,0:30:06, 0.502,Yes
+Standup,Standup,Jesper,,2024-08-12,10:59:45,2024-08-12,11:20:00,0:20:15, 0.338,Yes
+Standup,Standup,Jonas,,2024-08-12,11:00:00,2024-08-12,11:23:07,0:23:07, 0.385,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-12,11:00:00,2024-08-12,11:25:00,0:25:00, 0.417,Yes
+Stand-up meeting,Standup,Jan,,2024-08-12,11:00:38,2024-08-12,11:30:43,0:30:05, 0.501,Yes
+Reporting,Administration,Jonas,,2024-08-12,11:23:21,2024-08-12,11:45:00,0:21:39, 0.361,Yes
+Pull Request reviews,Planned features,Jan,,2024-08-12,11:30:49,2024-08-12,15:00:59,3:30:10, 3.503,Yes
+pr review,Other,Julian,,2024-08-12,11:43:23,2024-08-12,12:27:46,0:44:23, 0.740,Yes
+,Planned features,Johan,,2024-08-12,12:10:00,2024-08-12,13:30:00,1:20:00, 1.333,Yes
+pr review,Other,Julian,,2024-08-12,12:27:47,2024-08-12,13:37:52,1:10:05, 1.168,Yes
+TA skjerm,Planned bugs,Jesper,,2024-08-12,13:00:37,2024-08-12,13:10:00,0:09:23, 0.156,Yes
+Getting up to speed,Administration,Johan,,2024-08-12,13:30:00,2024-08-12,14:30:00,1:00:00, 1.000,Yes
+catchup,Other,Julian,,2024-08-12,13:37:52,2024-08-12,14:00:56,0:23:04, 0.384,Yes
+,Administration,Johan,,2024-08-12,14:30:00,2024-08-12,15:00:00,0:30:00, 0.500,Yes
+SOFIE-3310   Nora API Key/group via datastore,Planned features,Julian,,2024-08-12,15:00:00,2024-08-12,16:30:00,1:30:00, 1.500,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned bugs,Jan,,2024-08-12,15:20:59,2024-08-12,16:27:25,1:06:26, 1.107,Yes
+,Planned features,Johan,,2024-08-13,7:00:00,2024-08-13,8:30:00,1:30:00, 1.500,Yes
+catchup,Other,Julian,,2024-08-13,9:34:45,2024-08-13,9:55:39,0:20:54, 0.348,Yes
+standup,Standup,Julian,,2024-08-13,9:55:39,2024-08-13,10:18:13,0:22:34, 0.376,Yes
+Tregheter i TA-panelet,Other meetings,Johan,,2024-08-13,10:00:00,2024-08-13,11:00:00,1:00:00, 1.000,Yes
+Tregheter i TA-panelet,,Jan,,2024-08-13,10:00:06,2024-08-13,11:00:11,1:00:05, 1.001,Yes
+Standup,Standup,Jesper,,2024-08-13,10:59:54,2024-08-13,11:14:55,0:15:01, 0.250,Yes
+Standup,Standup,Jonas,,2024-08-13,11:00:00,2024-08-13,11:14:54,0:14:54, 0.248,Yes
+Sofie-team: standup,Standup,Johan,,2024-08-13,11:00:04,2024-08-13,11:25:08,0:25:04, 0.418,Yes
+catchup,Other,Julian,,2024-08-13,11:00:23,2024-08-13,12:00:57,1:00:34, 1.009,Yes
+Stand-up meeting,Standup,Jan,,2024-08-13,11:00:43,2024-08-13,11:20:49,0:20:06, 0.335,Yes
+SOFIE-3336 Tegnspråknytt should not send lighting macros at all,Planned features,Jan,,2024-08-13,11:44:37,2024-08-13,13:00:03,1:15:26, 1.257,Yes
+refinement,Dev meeting,Julian,,2024-08-13,12:00:58,2024-08-13,13:05:33,1:04:35, 1.076,Yes
+,Administration,Johan,,2024-08-13,12:20:00,2024-08-13,13:00:00,0:40:00, 0.667,Yes
+Weekly Refinement workshop,Administration,Johan,,2024-08-13,13:00:00,2024-08-13,13:59:00,0:59:00, 0.983,Yes
+Weekly Refinement workshop,Project meeting,Jan,,2024-08-13,13:00:42,2024-08-13,14:30:47,1:30:05, 1.501,Yes
+discuss: SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-13,13:05:33,2024-08-13,14:33:20,1:27:47, 1.463,Yes
+Talk tasks w Julian,Other meetings,Johan,,2024-08-13,14:00:00,2024-08-13,15:30:00,1:30:00, 1.500,Yes
+SOFIE-3336 Tegnspråknytt should not send lighting macros at all,Planned features,Jan,,2024-08-13,14:30:52,2024-08-13,18:52:20,4:21:28, 4.358,Yes
+SOFIE-3216   Reevaluate Tema/Headline SourceLayer relationship,Planned features,Julian,,2024-08-13,14:33:21,2024-08-13,15:41:11,1:07:50, 1.131,Yes
+SOFIE-3361   New Tech: Vite: Reduce reliance on copied meteor code,Planned features,Julian,,2024-08-13,15:42:12,2024-08-13,15:57:35,0:15:23, 0.256,Yes
+Performance issues,Unplanned/Critical bugs,Johan,,2024-08-14,7:30:00,2024-08-14,9:30:00,2:00:00, 2.000,Yes
+Code review: Package Manager,Code review,Johan,,2024-08-14,9:30:00,2024-08-14,11:00:00,1:30:00, 1.500,Yes
+Code review: Package Manager,Planned features,Jan,,2024-08-14,9:30:14,2024-08-14,11:01:18,1:31:04, 1.518,Yes
+standup,Standup,Julian,,2024-08-14,9:52:17,2024-08-14,10:24:17,0:32:00, 0.533,Yes
+catchup,Other,Julian,,2024-08-14,10:24:18,2024-08-14,10:54:08,0:29:50, 0.497,Yes
+Standup,Standup,Jesper,,2024-08-14,11:00:00,2024-08-14,11:30:01,0:30:01, 0.500,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-14,11:00:00,2024-08-14,11:25:00,0:25:00, 0.417,Yes
+Stand-up meeting,Standup,Jan,,2024-08-14,11:01:22,2024-08-14,11:18:00,0:16:38, 0.277,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned features,Jan,,2024-08-14,11:18:44,2024-08-14,16:39:55,5:21:11, 5.353,Yes
+catchup,Other,Julian,,2024-08-14,11:26:53,2024-08-14,12:07:32,0:40:39, 0.678,Yes
+Performance issues,Unplanned/Critical bugs,Johan,,2024-08-14,11:30:00,2024-08-14,12:00:00,0:30:00, 0.500,Yes
+SOFIE-3272   Suppress Direkte super during BTS,Planned features,Julian,,2024-08-14,12:07:32,2024-08-14,15:41:54,3:34:22, 3.573,Yes
+Talk tasks w Julian,Other meetings,Johan,,2024-08-14,13:00:00,2024-08-14,13:40:00,0:40:00, 0.667,Yes
+,Administration,Johan,,2024-08-14,13:40:00,2024-08-14,15:00:00,1:20:00, 1.333,Yes
+SOFIE-3307   LITENSTOR split in new design has some minor rendering imprecisions,Planned features,Julian,,2024-08-14,15:41:54,2024-08-14,16:13:14,0:31:20, 0.522,Yes
+Performance issues,Unplanned/Critical bugs,Johan,,2024-08-14,16:10:00,2024-08-14,16:50:00,0:40:00, 0.667,Yes
+SOFIE-3390   Loop for URIX must use queryparameter theme set to urix,Planned features,Julian,,2024-08-14,16:13:15,2024-08-14,17:01:33,0:48:18, 0.805,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned features,Jan,,2024-08-14,16:39:48,2024-08-14,17:38:01,0:58:13, 0.970,Yes
+SOFIE-3305   Update R51 Blueprints to expose TA-App data on publicData instead of R50 metadata,Planned features,Julian,,2024-08-14,17:01:34,2024-08-14,17:17:56,0:16:22, 0.273,Yes
+Performance issues,Unplanned/Critical bugs,Johan,,2024-08-15,7:06:03,2024-08-15,11:00:03,3:54:00, 3.900,Yes
+Sofie 3342,Planned features,Mint de Wit,,2024-08-15,8:06:23,2024-08-15,11:01:23,2:55:00, 2.917,Yes
+SOFIE-3307   LITENSTOR split in new design has some minor rendering imprecisions,Planned features,Julian,,2024-08-15,9:31:59,2024-08-15,9:59:47,0:27:48, 0.463,Yes
+SOFIE-3336 Tegnspråknytt should not send lighting macros at all,Planned features,Jan,,2024-08-15,9:50:34,2024-08-15,11:00:44,1:10:10, 1.169,Yes
+standup & discuss storybuilder piece performance,Standup,Julian,,2024-08-15,9:59:47,2024-08-15,11:09:23,1:09:36, 1.160,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-15,11:00:00,2024-08-15,11:25:00,0:25:00, 0.417,Yes
+Stand-up meeting,Standup,Jan,,2024-08-15,11:00:53,2024-08-15,12:10:10,1:09:17, 1.155,Yes
+,Standup,Mint de Wit,,2024-08-15,11:01:23,2024-08-15,11:21:23,0:20:00, 0.333,Yes
+Sofie 3342,Planned features,Mint de Wit,,2024-08-15,11:21:23,2024-08-15,12:09:16,0:47:53, 0.798,Yes
+Performance issues,Unplanned/Critical bugs,Johan,,2024-08-15,11:30:00,2024-08-15,12:09:00,0:39:00, 0.650,Yes
+SOFIE-3389   PAUSE-LOOP,Planned features,Julian,,2024-08-15,11:37:23,2024-08-15,13:01:56,1:24:33, 1.409,Yes
+Standup,Standup,Jesper,,2024-08-15,11:39:00,2024-08-15,12:06:54,0:27:54, 0.465,Yes
+SOFIE-3336 Tegnspråknytt should not send lighting macros at all,Planned features,Jan,,2024-08-15,12:10:25,2024-08-15,16:05:00,3:54:35, 3.910,Yes
+Performance issues,Unplanned/Critical bugs,Johan,,2024-08-15,12:30:00,2024-08-15,14:30:00,2:00:00, 2.000,Yes
+Sofie 3342,Planned features,Mint de Wit,,2024-08-15,13:15:00,2024-08-15,14:33:00,1:18:00, 1.300,Yes
+SOFIE-3389   PAUSE-LOOP,Planned features,Julian,,2024-08-15,15:01:11,2024-08-15,15:08:51,0:07:40, 0.128,Yes
+SOFIE-3310   Nora API Key/group via datastore,Planned features,Julian,,2024-08-15,15:08:00,2024-08-15,17:26:00,2:18:00, 2.300,Yes
+Sofie 3342,Planned features,Mint de Wit,,2024-08-15,15:33:54,2024-08-15,16:02:09,0:28:15, 0.471,Yes
+SOFIE-3381 Display name of rundown at the top of each rundown in a rundown playlist in the prompter,Planned features,Jan,,2024-08-15,16:04:59,2024-08-15,17:36:22,1:31:23, 1.523,Yes
+Sofie-3342,Planned features,Mint de Wit,,2024-08-16,8:26:56,2024-08-16,11:09:53,2:42:57, 2.716,Yes
+Performance issues,Unplanned/Critical bugs,Johan,,2024-08-16,8:40:00,2024-08-16,11:00:00,2:20:00, 2.333,Yes
+standup,Standup,Julian,,2024-08-16,9:44:57,2024-08-16,10:09:57,0:25:00, 0.417,Yes
+SOFIE-3381 Display name of rundown at the top of each rundown in a rundown playlist in the prompter,Planned features,Jan,,2024-08-16,10:00:19,2024-08-16,11:00:24,1:00:05, 1.001,Yes
+SOFIE-3310   Nora API Key/group via datastore,Planned features,Julian,,2024-08-16,10:09:57,2024-08-16,10:59:25,0:49:28, 0.824,Yes
+devmeet,Dev meeting,Julian,,2024-08-16,10:59:25,2024-08-16,11:59:21,0:59:56, 0.999,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-16,11:00:00,2024-08-16,11:25:00,0:25:00, 0.417,Yes
+Standup,Standup,Jesper,,2024-08-16,11:00:34,2024-08-16,11:09:44,0:09:10, 0.153,Yes
+Stand-up meeting,Standup,Jan,,2024-08-16,11:00:34,2024-08-16,11:30:40,0:30:06, 0.502,Yes
+,Standup,Mint de Wit,,2024-08-16,11:09:54,2024-08-16,11:09:55,0:00:01, 0.000,Yes
+Sofie-3342,Planned features,Mint de Wit,,2024-08-16,11:09:56,2024-08-16,11:37:23,0:27:27, 0.458,Yes
+SOFIE-3381 Display name of rundown at the top of each rundown in a rundown playlist in the prompter,Planned features,Jan,,2024-08-16,11:30:50,2024-08-16,12:00:55,0:30:05, 0.501,Yes
+Devmeet,Dev meeting,Jesper,,2024-08-16,12:00:00,2024-08-16,12:51:22,0:51:22, 0.856,Yes
+,Dev meeting,Mint de Wit,,2024-08-16,12:00:00,2024-08-16,13:38:40,1:38:40, 1.644,Yes
+NRK dev meet,Other meetings,Johan,,2024-08-16,12:00:00,2024-08-16,13:00:00,1:00:00, 1.000,Yes
+Friday Dev meet,Dev meeting,Jan,,2024-08-16,12:00:46,2024-08-16,13:00:57,1:00:11, 1.003,Yes
+vite: remove old auth SOFIE-3326,Planned features,Julian,,2024-08-16,12:21:43,2024-08-16,12:41:19,0:19:36, 0.327,Yes
+SOFIE-3310   Nora API Key/group via datastore,Planned features,Julian,,2024-08-16,12:41:19,2024-08-16,14:06:01,1:24:42, 1.412,Yes
+SOFIE-3381 Display name of rundown at the top of each rundown in a rundown playlist in the prompter,Planned features,Jan,,2024-08-16,13:00:04,2024-08-16,14:00:20,1:00:16, 1.004,Yes
+Sofie-3342,Planned features,Mint de Wit,,2024-08-16,13:38:42,2024-08-16,16:07:30,2:28:48, 2.480,Yes
+SOFIE-3378   Bug: Tema Super from old segment reappeared shortly overriding the current tema,Planned bugs,Julian,,2024-08-16,14:06:02,2024-08-16,16:14:40,2:08:38, 2.144,Yes
+Code reviews,Code review,Johan,,2024-08-19,6:50:00,2024-08-19,9:00:00,2:10:00, 2.167,Yes
+Sofie 3343,Planned features,Mint de Wit,,2024-08-19,8:31:28,2024-08-19,11:01:09,2:29:41, 2.495,Yes
+Release 52,Administration,Johan,,2024-08-19,9:00:00,2024-08-19,11:00:00,2:00:00, 2.000,Yes
+standup,Standup,Julian,,2024-08-19,9:57:10,2024-08-19,10:37:50,0:40:40, 0.678,Yes
+"SOFIE-3382 As an engineer I would like the posibillity to filter, and/or collapse the user-log",Planned features,Jan,,2024-08-19,10:20:00,2024-08-19,11:00:00,0:40:00, 0.667,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-19,11:00:00,2024-08-19,11:25:00,0:25:00, 0.417,Yes
+Stand-up meeting,Standup,Jan,,2024-08-19,11:00:00,2024-08-19,11:20:18,0:20:18, 0.338,Yes
+Standup,Standup,Jesper,,2024-08-19,11:00:22,2024-08-19,11:22:22,0:22:00, 0.367,Yes
+,Standup,Mint de Wit,,2024-08-19,11:01:11,2024-08-19,11:42:34,0:41:23, 0.690,Yes
+"SOFIE-3382 As an engineer I would like the posibillity to filter, and/or collapse the user-log",Planned features,Jan,,2024-08-19,11:20:18,2024-08-19,13:15:31,1:55:13, 1.920,Yes
+pr review & ux forum,Other,Julian,,2024-08-19,11:26:50,2024-08-19,13:02:09,1:35:19, 1.589,Yes
+,Planned features,Johan,,2024-08-19,12:00:00,2024-08-19,13:10:00,1:10:00, 1.167,Yes
+Sofie 3343,Planned features,Mint de Wit,,2024-08-19,12:00:37,2024-08-19,13:02:55,1:02:18, 1.038,Yes
+UX Forum,Project meeting,Jonas,,2024-08-19,13:00:00,2024-08-19,13:03:00,0:03:00, 0.050,Yes
+SOFIE-3310   Nora API Key/group via datastore,Planned features,Julian,,2024-08-19,13:02:09,2024-08-19,14:03:05,1:00:56, 1.016,Yes
+UX forum,Other meetings,Mint de Wit,,2024-08-19,13:02:55,2024-08-19,13:51:15,0:48:20, 0.806,Yes
+UX Forum,Project meeting,Jonas,,2024-08-19,13:15:00,2024-08-19,13:46:45,0:31:45, 0.529,Yes
+UX-forum,Other meetings,Johan,,2024-08-19,13:15:00,2024-08-19,14:00:00,0:45:00, 0.750,Yes
+UX-forum,Other meetings,Jan,,2024-08-19,13:15:31,2024-08-19,14:00:52,0:45:21, 0.756,Yes
+UX-forum,Sprint meeting,Jesper,,2024-08-19,13:29:45,2024-08-19,13:56:11,0:26:26, 0.441,Yes
+Sofie 3343,Planned features,Mint de Wit,,2024-08-19,13:51:17,2024-08-19,14:59:58,1:08:41, 1.145,Yes
+Reporting,Administration,Jonas,,2024-08-19,13:53:52,2024-08-19,14:00:32,0:06:40, 0.111,Yes
+"SOFIE-3382 As an engineer I would like the posibillity to filter, and/or collapse the user-log",Planned features,Jan,,2024-08-19,14:00:52,2024-08-19,15:00:05,0:59:13, 0.987,Yes
+SOFIE-3398   Performance fix: Stringify Nora Storybuilder payload,Planned features,Julian,,2024-08-19,14:24:54,2024-08-19,16:09:32,1:44:38, 1.744,Yes
+"SOFIE-3382 As an engineer I would like the posibillity to filter, and/or collapse the user-log",Planned features,Jan,,2024-08-19,15:15:14,2024-08-19,17:46:22,2:31:08, 2.519,Yes
+Sofie 3343,Planned features,Mint de Wit,,2024-08-19,15:27:00,2024-08-19,16:50:00,1:23:00, 1.383,Yes
+Wrapup Package Manager,Planned features,Johan,,2024-08-20,7:30:00,2024-08-20,8:30:00,1:00:00, 1.000,Yes
+Sofie 3281,Planned features,Mint de Wit,,2024-08-20,8:07:56,2024-08-20,11:00:31,2:52:35, 2.876,Yes
+catchup,Other,Julian,,2024-08-20,9:13:49,2024-08-20,10:00:43,0:46:54, 0.782,Yes
+Wrapup Package Manager,Planned features,Johan,,2024-08-20,9:30:00,2024-08-20,11:00:00,1:30:00, 1.500,Yes
+standup,Standup,Julian,,2024-08-20,10:00:43,2024-08-20,10:27:50,0:27:07, 0.452,Yes
+catchup,Other,Julian,,2024-08-20,10:27:51,2024-08-20,10:34:42,0:06:51, 0.114,Yes
+SOFIE-3336 Tegnspråknytt should not send lighting macros at all,Planned features,Jan,,2024-08-20,10:50:37,2024-08-20,11:00:46,0:10:09, 0.169,Yes
+SOFIE-3378   Bug: Tema Super from old segment reappeared shortly overriding the current tema,Planned bugs,Julian,,2024-08-20,10:58:00,2024-08-20,11:59:34,1:01:34, 1.026,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-20,11:00:00,2024-08-20,11:25:00,0:25:00, 0.417,Yes
+,Standup,Mint de Wit,,2024-08-20,11:00:31,2024-08-20,11:27:32,0:27:01, 0.450,Yes
+Stand-up meeting,Standup,Jan,,2024-08-20,11:00:58,2024-08-20,11:20:02,0:19:04, 0.318,Yes
+SOFIE-3336 Tegnspråknytt should not send lighting macros at all,Planned features,Jan,,2024-08-20,11:20:16,2024-08-20,13:00:24,1:40:08, 1.669,Yes
+Storybuidler Thumbnails,Planned features,Johan,,2024-08-20,11:55:25,2024-08-20,13:00:00,1:04:35, 1.076,Yes
+refinement,Dev meeting,Julian,,2024-08-20,11:59:35,2024-08-20,13:53:22,1:53:47, 1.896,Yes
+,Planned features,Mint de Wit,,2024-08-20,12:00:00,2024-08-20,13:00:00,1:00:00, 1.000,Yes
+refinement,Other meetings,Mint de Wit,,2024-08-20,13:00:00,2024-08-20,14:35:00,1:35:00, 1.583,Yes
+Weekly Refinement workshop,Administration,Johan,,2024-08-20,13:00:00,2024-08-20,14:35:00,1:35:00, 1.583,Yes
+Weekly Refinement workshop,Project meeting,Jan,,2024-08-20,13:00:24,2024-08-20,14:30:52,1:30:28, 1.508,Yes
+SOFIE-3378   Bug: Tema Super from old segment reappeared shortly overriding the current tema,Planned bugs,Julian,,2024-08-20,13:53:24,2024-08-20,13:53:25,0:00:01, 0.000,Yes
+SOFIE-3378   Bug: Tema Super from old segment reappeared shortly overriding the current tema,Planned bugs,Julian,,2024-08-20,13:53:26,2024-08-20,15:35:57,1:42:31, 1.709,Yes
+"SOFIE-3382 As an engineer I would like the posibillity to filter, and/or collapse the user-log",Planned features,Jan,,2024-08-20,14:31:00,2024-08-20,16:08:00,1:37:00, 1.617,Yes
+Sofie 3281,Planned features,Mint de Wit,,2024-08-20,14:35:00,2024-08-20,16:57:00,2:22:00, 2.367,Yes
+Storybuidler Thumbnails,Planned features,Johan,,2024-08-20,14:35:00,2024-08-20,15:19:00,0:44:00, 0.733,Yes
+SOFIE-3378   Bug: Tema Super from old segment reappeared shortly overriding the current tema,Planned bugs,Julian,,2024-08-20,15:35:58,2024-08-20,15:47:10,0:11:12, 0.187,Yes
+SOFIE-3339 TA GUI: Be able to expand filmstrip to show all steps,Planned features,Jan,,2024-08-20,16:08:00,2024-08-20,17:52:00,1:44:00, 1.733,Yes
+Storybuidler Thumbnails,Planned features,Johan,,2024-08-21,7:30:00,2024-08-21,11:00:00,3:30:00, 3.500,Yes
+Sofie 3281,Planned features,Mint de Wit,,2024-08-21,7:58:26,2024-08-21,11:01:42,3:03:16, 3.054,Yes
+standup,Standup,Julian,,2024-08-21,9:52:39,2024-08-21,10:53:49,1:01:10, 1.019,Yes
+SOFIE-3351 TA GUI: Be able to expand filmstrip to show all steps,,Jan,,2024-08-21,10:19:00,2024-08-21,11:00:00,0:41:00, 0.683,Yes
+Standup,Standup,Jonas,,2024-08-21,11:00:00,2024-08-21,11:30:27,0:30:27, 0.508,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-21,11:00:00,2024-08-21,11:25:00,0:25:00, 0.417,Yes
+Stand-up meeting,Standup,Jan,,2024-08-21,11:00:00,2024-08-21,11:20:00,0:20:00, 0.333,Yes
+,Standup,Mint de Wit,,2024-08-21,11:01:43,2024-08-21,11:41:27,0:39:44, 0.662,Yes
+Standup,Standup,Jesper,,2024-08-21,11:04:03,2024-08-21,11:20:00,0:15:57, 0.266,Yes
+SOFIE-3351 TA GUI: Be able to expand filmstrip to show all steps,,Jan,,2024-08-21,11:20:00,2024-08-21,13:30:00,2:10:00, 2.167,Yes
+,Administration,Johan,,2024-08-21,11:30:00,2024-08-21,12:20:00,0:50:00, 0.833,Yes
+,Administration,Jonas,,2024-08-21,11:30:38,2024-08-21,11:54:28,0:23:50, 0.397,Yes
+SOFIE-3398   Performance fix: Stringify Nora Storybuilder payload,Planned features,Julian,,2024-08-21,12:03:54,2024-08-21,12:30:05,0:26:11, 0.436,Yes
+Sofie 3281,Planned features,Mint de Wit,,2024-08-21,12:15:00,2024-08-21,17:00:00,4:45:00, 4.750,Yes
+List and storyboard view meeting,Dev meeting,Julian,,2024-08-21,12:30:05,2024-08-21,13:22:42,0:52:37, 0.877,Yes
+Storybuidler Thumbnails,Planned features,Johan,,2024-08-21,12:50:00,2024-08-21,13:30:00,0:40:00, 0.667,Yes
+SOFIE-3398   Performance fix: Stringify Nora Storybuilder payload,Planned features,Julian,,2024-08-21,13:22:42,2024-08-21,14:10:04,0:47:22, 0.789,Yes
+List and Storyboard view meeting,Planned features,Jonas,,2024-08-21,13:29:00,2024-08-21,14:22:18,0:53:18, 0.888,Yes
+List and Storyboard View Meeting,Planned features,Johan,,2024-08-21,13:30:00,2024-08-21,14:20:00,0:50:00, 0.833,Yes
+SOFIE-3325 List and Storyboard view meeting,Planned features,Jan,,2024-08-21,13:30:00,2024-08-21,14:15:00,0:45:00, 0.750,Yes
+SOFIE-3314   Stable API: clearSourceLayer just accepts one sourcelayer (not multiple),Planned features,Julian,,2024-08-21,14:10:00,2024-08-21,15:07:03,0:57:03, 0.951,Yes
+SOFIE-3351 TA GUI: Be able to expand filmstrip to show all steps,,Jan,,2024-08-21,14:15:00,2024-08-21,14:26:17,0:11:17, 0.188,Yes
+Storybuilder Thumbnails,Planned features,Johan,,2024-08-21,14:20:00,2024-08-21,14:40:00,0:20:00, 0.333,Yes
+,Administration,Jonas,,2024-08-21,14:22:21,2024-08-21,15:11:00,0:48:39, 0.811,Yes
+SOFIE-3325 Configure List View,Planned features,Jan,,2024-08-21,14:26:16,2024-08-21,15:30:12,1:03:56, 1.066,Yes
+Storybuilder Thumbnails,Planned features,Johan,,2024-08-21,14:40:00,2024-08-21,15:26:07,0:46:07, 0.769,Yes
+SOFIE-3401   Studio 3 screens available in RK6 TA-app,Planned features,Julian,,2024-08-21,15:07:03,2024-08-21,15:59:24,0:52:21, 0.873,Yes
+SOFIE-3351 TA GUI: Be able to expand filmstrip to show all steps,,Jan,,2024-08-21,15:30:31,2024-08-21,17:56:37,2:26:06, 2.435,Yes
+SOFIE-3305   Update R51 Blueprints to expose TA-App data on publicData instead of R50 metadata,Planned features,Julian,,2024-08-21,15:59:25,2024-08-21,16:16:08,0:16:43, 0.279,Yes
+SOFIE-3401   Studio 3 screens available in RK6 TA-app,Planned features,Julian,,2024-08-21,17:00:20,2024-08-21,17:34:05,0:33:45, 0.563,Yes
+Sofie-3342,Planned features,Mint de Wit,,2024-08-22,7:54:35,2024-08-22,11:00:44,3:06:09, 3.103,Yes
+SOFIE-3325 Configure List View,Planned features,Jan,,2024-08-22,9:00:35,2024-08-22,10:00:19,0:59:44, 0.996,Yes
+standup,Standup,Julian,,2024-08-22,9:55:00,2024-08-22,10:23:50,0:28:50, 0.481,Yes
+SOFIE-3351 TA GUI: Be able to expand filmstrip to show all steps,,Jan,,2024-08-22,10:00:31,2024-08-22,11:00:38,1:00:07, 1.002,Yes
+SOFIE-3411   Effect 3 - Sound is cut abruptly - should play out the duration of sound,Unplanned/Critical bugs,Julian,,2024-08-22,10:23:52,2024-08-22,11:45:01,1:21:09, 1.353,Yes
+Standup,Standup,Jonas,,2024-08-22,11:00:00,2024-08-22,11:16:17,0:16:17, 0.271,Yes
+Standup,Standup,Jesper,,2024-08-22,11:00:00,2024-08-22,11:44:40,0:44:40, 0.744,Yes
+Stand-up meeting,Standup,Jan,,2024-08-22,11:00:43,2024-08-22,11:15:49,0:15:06, 0.252,Yes
+,Standup,Mint de Wit,,2024-08-22,11:00:45,2024-08-22,11:39:06,0:38:21, 0.639,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned bugs,Jan,,2024-08-22,11:15:23,2024-08-22,12:56:06,1:40:43, 1.679,Yes
+Troubleshooting NRK VPN,Administration,Jonas,,2024-08-22,11:33:00,2024-08-22,13:18:28,1:45:28, 1.758,Yes
+Sofie-3342,Planned features,Mint de Wit,,2024-08-22,12:08:01,2024-08-22,17:06:02,4:58:01, 4.967,Yes
+Contribution Workshop: PR #1221 and PR #1226,Dev meeting,Julian,,2024-08-22,12:12:00,2024-08-22,13:08:37,0:56:37, 0.944,Yes
+Contribution Workshop: PR #1221 and PR #1226,Other meetings,Jan,,2024-08-22,12:56:06,2024-08-22,14:10:49,1:14:43, 1.245,Yes
+catchup,Other,Julian,,2024-08-22,13:08:38,2024-08-22,13:34:48,0:26:10, 0.436,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned bugs,Jan,,2024-08-22,14:10:58,2024-08-22,14:30:06,0:19:08, 0.319,Yes
+SOFIE-3404   User Action execution time increase when playing storybuilder steps,Unplanned/Critical bugs,Julian,,2024-08-22,14:25:15,2024-08-22,15:10:44,0:45:29, 0.758,Yes
+SOFIE-3404   User Action execution time increase when playing storybuilder steps,Unplanned/Critical bugs,Julian,,2024-08-22,15:10:44,2024-08-22,15:31:50,0:21:06, 0.352,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned bugs,Jan,,2024-08-22,15:30:49,2024-08-22,16:12:24,0:41:35, 0.693,Yes
+SOFIE-3404   User Action execution time increase when playing storybuilder steps,Unplanned/Critical bugs,Julian,,2024-08-22,15:31:51,2024-08-22,15:49:55,0:18:04, 0.301,Yes
+SOFIE-3366   Support programmed and automatic tag mode temasupers in rundowns,Planned bugs,Julian,,2024-08-22,15:50:06,2024-08-22,16:37:34,0:47:28, 0.791,Yes
+,Planned features,Johan,,2024-08-23,6:55:38,2024-08-23,11:00:51,4:05:13, 4.087,Yes
+,Planned features,Mint de Wit,,2024-08-23,8:18:00,2024-08-23,11:00:00,2:42:00, 2.700,Yes
+standup,Standup,Julian,,2024-08-23,9:58:21,2024-08-23,10:19:28,0:21:07, 0.352,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned bugs,Jan,,2024-08-23,10:00:17,2024-08-23,11:00:39,1:00:22, 1.006,Yes
+standup,Standup,Julian,,2024-08-23,10:19:30,2024-08-23,10:50:12,0:30:42, 0.512,Yes
+Sofie-team: standup,Standup,Johan,,2024-08-23,11:00:00,2024-08-23,11:33:00,0:33:00, 0.550,Yes
+Standup,Standup,Jesper,,2024-08-23,11:00:00,2024-08-23,11:21:28,0:21:28, 0.358,Yes
+,Standup,Mint de Wit,,2024-08-23,11:00:00,2024-08-23,11:20:04,0:20:04, 0.334,Yes
+Stand-up meeting,Standup,Jan,,2024-08-23,11:00:44,2024-08-23,11:30:49,0:30:05, 0.501,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned bugs,Jan,,2024-08-23,11:30:58,2024-08-23,13:11:37,1:40:39, 1.678,Yes
+SOFIE-3088   Generating thumbnails for previews for Storybuilder templates,Planned features,Julian,,2024-08-23,11:38:33,2024-08-23,15:03:33,3:25:00, 3.417,Yes
+,Code review,Mint de Wit,,2024-08-23,12:01:03,2024-08-23,15:27:43,3:26:40, 3.444,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned bugs,Jan,,2024-08-23,13:11:37,2024-08-23,14:34:41,1:23:04, 1.384,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned bugs,Jan,,2024-08-23,14:34:43,2024-08-23,15:01:52,0:27:09, 0.453,Yes
+SOFIE-3355 Package Manager: Restart worker if it has a lot of errors,Planned bugs,Jan,,2024-08-23,15:01:54,2024-08-23,15:30:47,0:28:53, 0.481,Yes
+SOFIE-2485   Convert MultiOSC Device to State Handler structure,Unplanned/Can always do,Julian,,2024-08-23,15:03:33,2024-08-23,16:35:15,1:31:42, 1.528,Yes
+SOFIE-3082 Prompter jumps,Unplanned/Critical bugs,Jan,,2024-08-23,15:30:47,2024-08-23,17:13:22,1:42:35, 1.710,Yes
+SOFIE-2498   Convert VizRT Device to State Handler structure,Unplanned/Can always do,Julian,,2024-08-23,16:35:16,2024-08-23,17:25:08,0:49:52, 0.831,Yes
+SOFIE-3082 Prompter jumps,Unplanned/Critical bugs,Jan,,2024-08-23,17:13:25,2024-08-23,17:42:50,0:29:25, 0.490,Yes
+,Code review,Johan,,2024-08-26,7:10:44,2024-08-26,9:00:44,1:50:00, 1.833,Yes
+Sofie-1152,Planned features,Mint de Wit,,2024-08-26,7:40:00,2024-08-26,10:58:09,3:18:09, 3.303,Yes
+,Planned features,Johan,,2024-08-26,9:30:00,2024-08-26,10:00:00,0:30:00, 0.500,Yes
+standup,Standup,Julian,,2024-08-26,9:55:11,2024-08-26,10:27:43,0:32:32, 0.542,Yes
+Kickoff R51 testing,Administration,Johan,,2024-08-26,10:00:00,2024-08-26,10:35:00,0:35:00, 0.583,Yes
+Kickoff R51 testing,Other meetings,Jan,,2024-08-26,10:00:48,2024-08-26,10:44:05,0:43:17, 0.721,Yes
+pr merging,Planned features,Julian,,2024-08-26,10:27:43,2024-08-26,11:07:47,0:40:04, 0.668,Yes
+,Planned features,Johan,,2024-08-26,10:35:00,2024-08-26,11:00:00,0:25:00, 0.417,Yes
+SOFIE-3082 Prompter jumps,Unplanned/Critical bugs,Jan,,2024-08-26,10:44:15,2024-08-26,11:00:57,0:16:42, 0.278,Yes
+,Standup,Mint de Wit,,2024-08-26,10:58:09,2024-08-26,11:35:26,0:37:17, 0.621,Yes
+Standup,Standup,Jesper,,2024-08-26,11:00:00,2024-08-26,11:25:00,0:25:00, 0.417,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-26,11:00:00,2024-08-26,11:25:00,0:25:00, 0.417,Yes
+Stand-up meeting,Standup,Jan,,2024-08-26,11:00:04,2024-08-26,11:20:49,0:20:45, 0.346,Yes
+Standup,Standup,Jonas,,2024-08-26,11:01:38,2024-08-26,11:21:24,0:19:46, 0.329,Yes
+pr merging,Planned features,Julian,,2024-08-26,11:07:47,2024-08-26,11:43:28,0:35:41, 0.595,Yes
+SOFIE-3082 Prompter jumps,Unplanned/Critical bugs,Jan,,2024-08-26,11:20:49,2024-08-26,13:01:33,1:40:44, 1.679,Yes
+Prompter jumps,Planned bugs,Jesper,,2024-08-26,11:25:00,2024-08-26,12:33:30,1:08:30, 1.142,Yes
+,Planned features,Johan,,2024-08-26,11:25:00,2024-08-26,11:45:00,0:20:00, 0.333,Yes
+Sofie-1152,Planned features,Mint de Wit,,2024-08-26,12:00:00,2024-08-26,13:00:39,1:00:39, 1.011,Yes
+,Planned features,Johan,,2024-08-26,12:00:00,2024-08-26,13:00:00,1:00:00, 1.000,Yes
+ux forum,Dev meeting,Julian,,2024-08-26,12:10:48,2024-08-26,12:26:01,0:15:13, 0.254,Yes
+group pr review,Other,Julian,,2024-08-26,12:26:04,2024-08-26,14:01:05,1:35:01, 1.584,Yes
+UX Forum,Project meeting,Jonas,,2024-08-26,12:59:23,2024-08-26,13:23:37,0:24:14, 0.404,Yes
+UX-forum: Updates on TA-app for RK6,Other meetings,Johan,,2024-08-26,13:00:00,2024-08-26,13:30:00,0:30:00, 0.500,Yes
+UX forum,Other meetings,Mint de Wit,,2024-08-26,13:00:40,2024-08-26,13:30:49,0:30:09, 0.503,Yes
+UX-forum,Other meetings,Jan,,2024-08-26,13:01:00,2024-08-26,13:30:00,0:29:00, 0.483,Yes
+Code reviews with Johan and Julian!,Code review,Johan,,2024-08-26,13:30:00,2024-08-26,15:00:00,1:30:00, 1.500,Yes
+SOFIE-3082 Prompter jumps,Unplanned/Critical bugs,Jan,,2024-08-26,13:30:36,2024-08-26,15:02:41,1:32:05, 1.535,Yes
+Sofie-1152,Planned features,Mint de Wit,,2024-08-26,13:30:49,2024-08-26,14:59:58,1:29:09, 1.486,Yes
+Reporting,Administration,Jonas,,2024-08-26,13:46:09,2024-08-26,13:50:09,0:04:00, 0.067,Yes
+pr merging,Planned features,Julian,,2024-08-26,14:23:25,2024-08-26,15:20:08,0:56:43, 0.945,Yes
+Sofie-1152,Planned features,Mint de Wit,,2024-08-26,15:32:12,2024-08-26,17:09:45,1:37:33, 1.626,Yes
+SOFIE-3082 Prompter jumps,Unplanned/Critical bugs,Jan,,2024-08-26,15:39:00,2024-08-26,17:48:00,2:09:00, 2.150,Yes
+,Administration,Johan,,2024-08-27,7:30:00,2024-08-27,8:30:00,1:00:00, 1.000,Yes
+Sofie-1152,Planned features,Mint de Wit,,2024-08-27,7:56:10,2024-08-27,11:01:29,3:05:19, 3.089,Yes
+"SOFIE-3382 As an engineer I would like the posibillity to filter, and/or collapse the user-log",Planned features,Jan,,2024-08-27,9:04:00,2024-08-27,11:00:00,1:56:00, 1.933,Yes
+pr merging,Planned features,Julian,,2024-08-27,9:42:52,2024-08-27,9:59:41,0:16:49, 0.280,Yes
+standup,Standup,Julian,,2024-08-27,9:59:41,2024-08-27,10:30:17,0:30:36, 0.510,Yes
+Backlog grooming,Administration,Johan,,2024-08-27,10:15:00,2024-08-27,11:00:00,0:45:00, 0.750,Yes
+pr merging,Planned features,Julian,,2024-08-27,10:30:00,2024-08-27,11:08:00,0:38:00, 0.633,Yes
+Standup,Standup,Jonas,,2024-08-27,11:00:00,2024-08-27,11:21:38,0:21:38, 0.361,Yes
+Standup,Standup,Jesper,,2024-08-27,11:00:00,2024-08-27,11:16:00,0:16:00, 0.267,Yes
+Stand-up meeting,Standup,Jan,,2024-08-27,11:00:00,2024-08-27,11:26:00,0:26:00, 0.433,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-27,11:00:00,2024-08-27,11:25:00,0:25:00, 0.417,Yes
+,Standup,Mint de Wit,,2024-08-27,11:01:00,2024-08-27,11:30:00,0:29:00, 0.483,Yes
+SOFIE-3420 R51 - Playhead continues into the unknown....,Unplanned/Can always do,Jan,,2024-08-27,11:26:00,2024-08-27,13:02:00,1:36:00, 1.600,Yes
+SOFIE-3398   Performance fix: Stringify Nora Storybuilder payload,Planned features,Julian,,2024-08-27,11:45:13,2024-08-27,12:00:28,0:15:15, 0.254,Yes
+Sofie-1152,Planned features,Mint de Wit,,2024-08-27,12:00:00,2024-08-27,16:06:49,4:06:49, 4.114,Yes
+Merging of PRs,Code review,Johan,,2024-08-27,12:00:00,2024-08-27,13:00:00,1:00:00, 1.000,Yes
+refinement,Dev meeting,Julian,,2024-08-27,12:00:28,2024-08-27,12:55:34,0:55:06, 0.918,Yes
+SOFIE-3402   Performant ExpectedPackages with storybuilder,Planned features,Julian,,2024-08-27,12:55:35,2024-08-27,15:26:29,2:30:54, 2.515,Yes
+Weekly Refinement workshop,Administration,Johan,,2024-08-27,13:00:00,2024-08-27,13:40:00,0:40:00, 0.667,Yes
+Weekly Refinement workshop,Project meeting,Jan,,2024-08-27,13:02:00,2024-08-27,13:31:34,0:29:34, 0.493,Yes
+SOFIE-3420 R51 - Playhead continues into the unknown....,Unplanned/Can always do,Jan,,2024-08-27,13:31:34,2024-08-27,16:05:34,2:34:00, 2.567,Yes
+Merging of PRs,Code review,Johan,,2024-08-27,13:40:00,2024-08-27,15:30:00,1:50:00, 1.833,Yes
+Teste Vite build,Planned features,Jesper,,2024-08-27,14:45:00,2024-08-27,16:21:49,1:36:49, 1.614,Yes
+SOFIE-3326,Planned features,Mint de Wit,,2024-08-27,16:06:49,2024-08-27,17:11:14,1:04:25, 1.074,Yes
+Merging of PRs,Code review,Johan,,2024-08-28,7:25:00,2024-08-28,8:20:00,0:55:00, 0.917,Yes
+Sofie-1152,Planned features,Mint de Wit,,2024-08-28,7:54:33,2024-08-28,11:01:04,3:06:31, 3.109,Yes
+Merging of PRs,Code review,Johan,,2024-08-28,8:40:00,2024-08-28,10:15:00,1:35:00, 1.583,Yes
+standup,Standup,Julian,,2024-08-28,9:59:26,2024-08-28,10:50:37,0:51:11, 0.853,Yes
+SOFIE-3420 R51 - Playhead continues into the unknown....,Unplanned/Can always do,Jan,,2024-08-28,10:00:51,2024-08-28,11:00:06,0:59:15, 0.988,Yes
+How to safely deploy the TA App,Other meetings,Johan,,2024-08-28,10:15:00,2024-08-28,10:35:00,0:20:00, 0.333,Yes
+Merging of PRs,Code review,Johan,,2024-08-28,10:39:18,2024-08-28,15:35:54,4:56:36, 4.943,Yes
+SOFIE-3427   R51 - Some Clips and Assets are started twice some times.,Unplanned/Critical bugs,Julian,,2024-08-28,10:50:37,2024-08-28,11:38:53,0:48:16, 0.804,Yes
+Standup,Standup,Jonas,,2024-08-28,11:00:00,2024-08-28,11:29:10,0:29:10, 0.486,Yes
+Stand-up meeting,Standup,Jan,,2024-08-28,11:00:13,2024-08-28,11:30:24,0:30:11, 0.503,Yes
+,Standup,Mint de Wit,,2024-08-28,11:01:05,2024-08-28,11:46:59,0:45:54, 0.765,Yes
+Meeting with Ola,Administration,Jonas,,2024-08-28,11:29:00,2024-08-28,11:46:00,0:17:00, 0.283,Yes
+SOFIE-3420 R51 - Playhead continues into the unknown....,Unplanned/Can always do,Jan,,2024-08-28,11:30:29,2024-08-28,14:54:06,3:23:37, 3.394,Yes
+SOFIE 3424,Unplanned/Critical bugs,Mint de Wit,,2024-08-28,12:18:06,2024-08-28,16:37:15,4:19:09, 4.319,Yes
+SOFIE-3427   R51 - Some Clips and Assets are started twice some times.,Unplanned/Critical bugs,Julian,,2024-08-28,13:17:36,2024-08-28,14:00:51,0:43:15, 0.721,Yes
+SOFIE-3420   R51 - Playhead continues into the unknown....,Unplanned/Critical bugs,Julian,,2024-08-28,14:00:51,2024-08-28,16:20:52,2:20:01, 2.334,Yes
+SOFIE-3422 R51 - Going to status in Sofie sends you to Media Status instead of System Status,Unplanned/Critical bugs,Jan,,2024-08-28,14:54:05,2024-08-28,15:06:22,0:12:17, 0.205,Yes
+"SOFIE-3425 Remove duplicates of ""Take out"" buttons for all the backscreens in the TA-app",Unplanned/Critical bugs,Jan,,2024-08-28,15:06:33,2024-08-28,16:55:26,1:48:53, 1.815,Yes
+feat: vite webui bundling SOFIE-3326 : debugging windows,Planned features,Julian,,2024-08-28,16:23:39,2024-08-28,17:44:35,1:20:56, 1.349,Yes
+SOFIE-2498   Convert VizRT Device to State Handler structure,Unplanned/Can always do,Julian,,2024-08-28,17:44:35,2024-08-28,18:06:57,0:22:22, 0.373,Yes
+SOFIE-2498   Convert VizRT Device to State Handler structure,Unplanned/Can always do,Julian,,2024-08-28,18:10:43,2024-08-28,18:18:42,0:07:59, 0.133,Yes
+SOFIE 3424,Unplanned/Critical bugs,Mint de Wit,,2024-08-29,9:27:37,2024-08-29,11:01:46,1:34:09, 1.569,Yes
+standup,Standup,Julian,,2024-08-29,9:53:23,2024-08-29,10:24:43,0:31:20, 0.522,Yes
+SOFIE-3408 Infinite Pieces are invisible in List View even if the Source Layer has no column enabled,Unplanned/Critical bugs,Jan,,2024-08-29,10:00:21,2024-08-29,11:00:15,0:59:54, 0.998,Yes
+Merging of PRs,Code review,Johan,,2024-08-29,10:20:00,2024-08-29,11:00:00,0:40:00, 0.667,Yes
+SOFIE-3430   Sound played to early on vignetts,Unplanned/Critical bugs,Julian,,2024-08-29,10:24:44,2024-08-29,11:30:24,1:05:40, 1.094,Yes
+Standup,Standup,Jonas,,2024-08-29,11:00:00,2024-08-29,11:19:36,0:19:36, 0.327,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-29,11:00:00,2024-08-29,11:25:00,0:25:00, 0.417,Yes
+Stand-up meeting,Standup,Jan,,2024-08-29,11:00:23,2024-08-29,11:20:28,0:20:05, 0.335,Yes
+,Standup,Mint de Wit,,2024-08-29,11:01:49,2024-08-29,11:32:11,0:30:22, 0.506,Yes
+SOFIE-3408 Infinite Pieces are invisible in List View even if the Source Layer has no column enabled,Unplanned/Critical bugs,Jan,,2024-08-29,11:20:33,2024-08-29,13:30:20,2:09:47, 2.163,Yes
+,Unplanned/Critical bugs,Johan,,2024-08-29,11:30:00,2024-08-29,12:10:00,0:40:00, 0.667,Yes
+SOFIE 3424,Unplanned/Critical bugs,Mint de Wit,,2024-08-29,11:56:35,2024-08-29,14:45:27,2:48:52, 2.814,Yes
+,Administration,Jonas,,2024-08-29,12:47:24,2024-08-29,13:03:00,0:15:36, 0.260,Yes
+SOFIE-3415 Optimistic updates for Stories and Story Steps in TA App,Unplanned/Can always do,Jan,,2024-08-29,13:30:20,2024-08-29,14:30:46,1:00:26, 1.007,Yes
+,Unplanned/Critical bugs,Johan,,2024-08-29,14:00:00,2024-08-29,14:30:00,0:30:00, 0.500,Yes
+SOFIE-3429   R51 - Irritating bug when trying to edit Action triggers for Input Gateway,Planned bugs,Julian,,2024-08-29,14:25:02,2024-08-29,15:57:04,1:32:02, 1.534,Yes
+SOFIE 3424,Unplanned/Critical bugs,Mint de Wit,,2024-08-29,15:30:00,2024-08-29,17:03:32,1:33:32, 1.559,Yes
+SOFIE-3415 Optimistic updates for Stories and Story Steps in TA App,Unplanned/Can always do,Jan,,2024-08-29,15:30:45,2024-08-29,17:11:13,1:40:28, 1.674,Yes
+SOFIE-3402   Performant ExpectedPackages with storybuilder,Planned features,Julian,,2024-08-29,15:57:06,2024-08-29,16:51:35,0:54:29, 0.908,Yes
+Troubleshoot bugs,Unplanned/Critical bugs,Johan,,2024-08-30,7:15:00,2024-08-30,9:30:00,2:15:00, 2.250,Yes
+SOFIE-3415 Optimistic updates for Stories and Story Steps in TA App,Unplanned/Can always do,Jan,,2024-08-30,9:06:00,2024-08-30,11:00:00,1:54:00, 1.900,Yes
+catchup,Other,Julian,,2024-08-30,9:20:56,2024-08-30,9:57:44,0:36:48, 0.613,Yes
+Sofie-1152,Planned features,Mint de Wit,,2024-08-30,9:39:00,2024-08-30,11:00:50,1:21:50, 1.364,Yes
+standup,Standup,Julian,,2024-08-30,9:57:44,2024-08-30,10:38:07,0:40:23, 0.673,Yes
+Troubleshoot bugs,Unplanned/Critical bugs,Johan,,2024-08-30,10:00:00,2024-08-30,11:00:00,1:00:00, 1.000,Yes
+Meeting with Ola,Administration,Jonas,,2024-08-30,10:29:42,2024-08-30,10:42:35,0:12:53, 0.215,Yes
+dev meet,Dev meeting,Julian,,2024-08-30,10:58:29,2024-08-30,11:55:23,0:56:54, 0.948,Yes
+Standup,Standup,Jesper,,2024-08-30,11:00:00,2024-08-30,11:18:00,0:18:00, 0.300,Yes
+Stand-up meeting,Standup,Jan,,2024-08-30,11:00:00,2024-08-30,11:22:00,0:22:00, 0.367,Yes
+"Standup, Team Sofie",Standup,Johan,,2024-08-30,11:00:00,2024-08-30,11:25:00,0:25:00, 0.417,Yes
+,Standup,Mint de Wit,,2024-08-30,11:00:50,2024-08-30,11:28:39,0:27:49, 0.464,Yes
+SOFIE-3415 Optimistic updates for Stories and Story Steps in TA App,Unplanned/Can always do,Jan,,2024-08-30,11:22:00,2024-08-30,12:01:00,0:39:00, 0.650,Yes
+SOFIE-3428   TA - app - Unable to do take outs,Unplanned/Critical bugs,Julian,,2024-08-30,11:55:23,2024-08-30,12:50:09,0:54:46, 0.913,Yes
+Sofie Dev meet,Dev meeting,Johan,,2024-08-30,12:00:00,2024-08-30,13:00:00,1:00:00, 1.000,Yes
+Devmeet,Dev meeting,Jesper,,2024-08-30,12:01:20,2024-08-30,12:48:12,0:46:52, 0.781,Yes
+Friday Dev meet,Dev meeting,Jan,,2024-08-30,12:01:40,2024-08-30,12:52:25,0:50:45, 0.846,Yes
+SOFIE-3415 Optimistic updates for Stories and Story Steps in TA App,Unplanned/Can always do,Jan,,2024-08-30,12:52:28,2024-08-30,16:13:28,3:21:00, 3.350,Yes
+,Unplanned/Critical bugs,Johan,,2024-08-30,13:15:00,2024-08-30,14:54:22,1:39:22, 1.656,Yes
+SOFIE-3428   TA - app - Unable to do take outs,Unplanned/Critical bugs,Julian,,2024-08-30,14:42:01,2024-08-30,16:32:30,1:50:29, 1.841,Yes
+catchup,Other,Julian,,2024-08-30,16:32:31,2024-08-30,16:52:09,0:19:38, 0.327,Yes
+Total,,,,,,,,460:27:01, 460.450,
